@@ -1,0 +1,20 @@
+{
+    "name": "pharloom-theme",
+    "displayName": "Pharloom",
+    "description": "Unofficial dark theme inspired by Hollow Knight: Silksong's Pharloom. Fan work — not affiliated with Team Cherry.",
+    "version": "0.1.0",
+    "publisher": "your-publisher-id",
+    "engines": {
+      "vscode": "^1.74.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Pharloom Dark",
+          "uiTheme": "vs-dark",
+          "path": "./themes/pharloom-dark.json"
+        }
+      ]
+    }
+}

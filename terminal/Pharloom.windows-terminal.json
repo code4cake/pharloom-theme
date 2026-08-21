@@ -1,0 +1,23 @@
+{
+    "name": "Pharloom",
+    "background": "#161218",
+    "foreground": "#E8DCC8",
+    "cursorColor": "#D4A84B",
+    "selectionBackground": "#3A2428",
+    "black": "#161218",
+    "red": "#C23B3B",
+    "green": "#3D7A6A",
+    "yellow": "#D4A84B",
+    "blue": "#B08A5A",
+    "purple": "#C23B3B",
+    "cyan": "#3D7A6A",
+    "white": "#E8DCC8",
+    "brightBlack": "#7A6A72",
+    "brightRed": "#C23B3B",
+    "brightGreen": "#3D7A6A",
+    "brightYellow": "#D4A84B",
+    "brightBlue": "#B08A5A",
+    "brightPurple": "#C23B3B",
+    "brightCyan": "#3D7A6A",
+    "brightWhite": "#E8DCC8"
+}
